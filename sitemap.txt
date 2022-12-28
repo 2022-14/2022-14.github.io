@@ -1,2 +1,2 @@
-http://example.com/2022/12/28/20221228/
-http://example.com/
+http://2022-14.github.io/2022/12/28/1/
+http://2022-14.github.io/
